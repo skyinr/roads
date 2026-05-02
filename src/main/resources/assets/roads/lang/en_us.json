@@ -1,0 +1,13 @@
+{
+  "itemGroup.roads": "Example Mod Tab",
+  "block.roads.example_block": "Example Block",
+  "item.roads.example_item": "Example Item",
+
+  "roads.configuration.title": "Roads Configs",
+  "roads.configuration.section.roads.common.toml": "Roads Configs",
+  "roads.configuration.section.roads.common.toml.title": "Roads Configs",
+  "roads.configuration.items": "Item List",
+  "roads.configuration.logDirtBlock": "Log Dirt Block",
+  "roads.configuration.magicNumberIntroduction": "Magic Number Text",
+  "roads.configuration.magicNumber": "Magic Number"
+}
