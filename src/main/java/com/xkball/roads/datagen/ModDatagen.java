@@ -23,7 +23,7 @@ public class ModDatagen {
 
         // Client Datagen
         generator.addProvider(true, new ModItemModelProvider(packOutput, Roads.MODID));
-        generator.addProvider(true, new ModLanguageProvider(packOutput, Roads.MODID, "zh_ch"));
+        generator.addProvider(true, new ModLanguageProvider(packOutput, Roads.MODID, "zh_cn"));
 
         // Server Datagen
         generator.addProvider(true, new ModRecipeProvider.Runner(packOutput, lookupProvider));

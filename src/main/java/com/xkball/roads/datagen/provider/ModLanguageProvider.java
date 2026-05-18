@@ -1,6 +1,5 @@
 package com.xkball.roads.datagen.provider;
 
-import com.xkball.roads.block.ModBlocks;
 import com.xkball.roads.item.ModItems;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.common.data.LanguageProvider;
